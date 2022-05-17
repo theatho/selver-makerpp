@@ -1,4 +1,6 @@
 <?php
+require "./vendor/autoload.php";
+use Jajo\JSONDB;
 
 ob_start();
 $API_KEY = '843358054:AAP5Au2vcuVtvDhkwLz6Xg4ju9IbUe8'';
