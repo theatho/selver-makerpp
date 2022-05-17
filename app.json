@@ -7,7 +7,7 @@
     "bot"
   ],
   "website": "https://quiec.tech/",
-  "repository": "https://github.com/quiec/pmChatBot",
+  "repository": "https://github.com/theatho/selver-makerpp",
   "logo": "https://www.pngmart.com/files/11/Chat-Logo-PNG-Image.png",
   "env": {
     "BOT_TOKEN": {
