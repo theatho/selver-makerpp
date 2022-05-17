@@ -10,20 +10,7 @@
   "repository": "https://github.com/theatho/selver-makerpp",
   "logo": "https://www.pngmart.com/files/11/Chat-Logo-PNG-Image.png",
   "env": {
-    "BOT_TOKEN": {
-      "description": "Bot token",
-      "required": false
-    },
-    "DB_TUR": {
-      "description": "db or json",
-      "value": "db",
-      "required": false
-    },
-    "ADMIN_ID": {
-      "description": "admin id",
-      "value": "452321614",
-      "required": false
-    }
+
   },
   "addons": [
     {
